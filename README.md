@@ -28,7 +28,8 @@ Purchase facilities are being prepared for the public release. Future updates ma
 DI brings the main stages of video review into one application, including:
 
 - catalogue and organise dashcam, CCTV and general video sources;
-- review front and rear camera recordings together where supported;
+- review synchronised front and rear recordings from dual-camera dashcams;
+- play and review recorded audio alongside video, with audio controls during investigation;
 - seek, scrub and move through recordings precisely;
 - use zoom, pan and full-screen review tools;
 - review GPS position and map context when compatible GPS data is available;
